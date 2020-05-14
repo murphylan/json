@@ -2,15 +2,21 @@
     "persons": [
         {
             "id": 1,
-            "name": "luyinwh"
+            "name": "luyinwh",
+            "css": "mycard1",
+            "icon": ""
         },
         {
             "id": 2,
-            "name": "cdjianz"
+            "name": "cdjianz",
+            "css": "mycard1",
+            "icon": ""
         },
         {
             "id": 3,
-            "name": "zhuzz"
+            "name": "zhuzz",
+            "css": "mycard1",
+            "icon": ""
         }
     ],
     "comments": [
