@@ -1,37 +1,22 @@
 {
-    "persons": [
+    "students": [
         {
             "id": 1,
             "name": "luyinwh",
-            "css": "mycard1",
-            "icon": ""
+            "css": "my-selected1",
+            "icon": "sentiment_very_dissatisfied"
         },
         {
             "id": 2,
             "name": "cdjianz",
-            "css": "mycard1",
-            "icon": ""
+            "css": "my-selected1",
+            "icon": "sentiment_very_dissatisfied"
         },
         {
             "id": 3,
             "name": "zhuzz",
-            "css": "mycard1",
-            "icon": ""
+            "css": "my-selected1",
+            "icon": "sentiment_very_dissatisfied"
         }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
